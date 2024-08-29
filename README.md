@@ -7,3 +7,5 @@ Requirements: Anki
 https://apps.ankiweb.net
 
 This deck is not meant to replace the ncert book itself, you are still advised to read any material of choice on this topic, however this deck does contain almost every line from the book and some important diagrams, its intention is to make you learn every detail.
+
+Coming next: Chemistry chapter 1
